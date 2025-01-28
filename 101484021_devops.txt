@@ -8,3 +8,5 @@ Next Generation (YANG), and their value in network automation, along with DevOps
 as Ansible and Git.
 The course also covers monitoring and logging tools like Prometheus and Grafana.
 The course also covers monitoring and logging tools like Prometheus and Grafana.
+
+2. Second Commit
