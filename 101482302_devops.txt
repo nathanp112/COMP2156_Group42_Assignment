@@ -12,4 +12,30 @@ Your local repository setup.
 Git commit history.
 Branch structure.
 CI pipeline status
-
+Criteria	
+Points Achieved
+Criterion Score
+Group set up
+2 points
+Score of Group set up,/ 2
+Git set up
+2 points
+Score of Git set up,/ 2
+Collaborator set up
+5 points
+Score of Collaborator set up,/ 5
+Individual Branch Creation
+5 points
+Score of Individual Branch Creation,/ 5
+Git Hub Acton Set up
+6 points
+Score of Git Hub Acton Set up,/ 6
+Individual Member 10 commits
+60 points
+Score of Individual Member 10 commits,/ 60
+Local branch Update
+10 points
+Score of Local branch Update,/ 10
+Update ReadMe file
+10 points
+Score of Update ReadMe file,/ 10
