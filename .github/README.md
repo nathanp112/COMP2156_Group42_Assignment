@@ -4,10 +4,10 @@
 
 ## Leader: Nathan Prince (101485672)(https://github.com/nathanp112)
 ## Member 2: Dongmin Lee (101469826)(https://github.com/dongmin93)
-## Member 3: Philip Ranillo (101475343) - [GitHub](https://github.com/A-ranillo)
-## Member 4: Aaron Morante (101360938) - [GitHub](https://github.com/a4rxn)
-## Member 5: Michael Lin (101484021) - [GitHub](https://github.com/Aasurra)
-## Member 6: Berat Karaca (101482302) - [GitHub](https://github.com/Hmmvice)
+## Member 3: Philip Ranillo (101475343)(https://github.com/A-ranillo)
+## Member 4: Aaron Morante (101360938)(https://github.com/a4rxn)
+## Member 5: Michael Lin (101484021)(https://github.com/Aasurra)
+## Member 6: Berat Karaca (101482302)(https://github.com/Hmmvice)
 ## Member 7: Sara Mambuco (101504409)(https://github.com/szm27)
 
  ## Project Description
