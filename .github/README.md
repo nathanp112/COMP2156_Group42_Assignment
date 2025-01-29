@@ -1,4 +1,4 @@
-# COMP2156_Group1_Assignment
+# COMP2156_Group42_Assignment
 
 ## Group Members
 
