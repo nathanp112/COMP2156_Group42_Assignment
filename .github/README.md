@@ -8,7 +8,7 @@
 ## Member 4: Aaron Morante (101360938) - [GitHub](https://github.com/a4rxn)
 ## Member 5: Michael Lin (101484021) - [GitHub](https://github.com/Aasurra)
 ## Member 6: Berat Karaca (101482302) - [GitHub](https://github.com/Hmmvice)
-## Member 7: Sara Mambuco (101504409) - [GitHub](https://github.com/szm27)
+## Member 7: Sara Mambuco (101504409)(https://github.com/szm27)
 
  ## Project Description
 
