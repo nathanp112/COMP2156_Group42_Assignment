@@ -1,0 +1,11 @@
+In modern software development, DevOps (Development + Operations) plays a crucial role in enhancing productivity, efficiency, and reliability. DevOps bridges the gap between development and IT operations, enabling faster and more secure software delivery. Here’s why learning DevOps is essential in the software development cycle:
+
+1. Faster Software Delivery and Deployment
+2. Improved Collaboration Between Teams
+3. Enchanced Software Quality & Reliabilty
+4. Continuous Integration
+5. Scalability and Flexibility
+
+
+Modification #3 to do 10 commits
+Modification #4 to do 10 commits
