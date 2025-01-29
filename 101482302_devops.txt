@@ -3,4 +3,13 @@ operation implementation available and implement hands-on work using industry st
 about data formats and types, including Extensible Markup Language (XML), JavaScript Object Notation (JSON), Yaml Ain't Markup Language (YAML), and Yet Another Next Generation (YANG), and their value in 
 network automation, along with DevOps tools such as Ansible and Git.
 
+Create separate PDF/DOCX file for each member and submit all file by one member. If any member had not contributed, please mention it while submitting your work.
+
+Repository Link: Ensure your GitHub repository is public and copy the link.
+Screenshots:
+Capture screenshots showing:
+Your local repository setup.
+Git commit history.
+Branch structure.
+CI pipeline status
 
