@@ -1,0 +1,3 @@
+DevOps has become a crucial part of modern software development, bridging the gap between development (Dev) and operations (Ops) teams. It integrates automation, collaboration, and continuous improvement to enhance the Software Development Lifecycle (SDLC)
+
+
