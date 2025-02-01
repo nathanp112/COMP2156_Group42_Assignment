@@ -3,7 +3,7 @@
 ## Group Members
 
 ## Leader: Nathan Prince (101485672)(https://github.com/nathanp112)
-## Member 2: Dongmin Lee (101469826)(https://github.com/dongmin93)
+## Member 2: Dongmin Lee (101469826)(https://github.com/Medbedi)
 ## Member 3: Philip Ranillo (101475343)(https://github.com/A-ranillo)
 ## Member 4: Aaron Morante (101360938)(https://github.com/a4rxn)
 ## Member 5: Michael Lin (101484021)(https://github.com/Aasurra)
