@@ -1,0 +1,2 @@
+ remove barriers between development, testing, and deployment, allowing organizations to 
+ release new features faster and respond quickly to changing market demands.
