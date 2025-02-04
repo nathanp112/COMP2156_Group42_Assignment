@@ -2,3 +2,5 @@ DevOps bridges the gap between development and operations, improving collaborati
 enables faster development of new products and easier maintenance of existing deployments.
 shorten the systems development lifecycle and provide continuous delivery with high software quality.
 1.
+2.
+3.
