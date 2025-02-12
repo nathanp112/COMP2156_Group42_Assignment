@@ -1,8 +1,0 @@
-Learning DevOps is essential for modern software development as it
-enhances collaboration, efficiency, quality, and scalability
-while reducing risks and costs. It aligns development and operations
-teams to deliver value to customers faster and more reliably.
-
-i am modifying for another commit
-6 this is the 6th commit
-this is the 8th commit

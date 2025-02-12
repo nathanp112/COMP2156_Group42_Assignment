@@ -1,2 +1,0 @@
-DevOps promotes a culture of shared responsibility,
-where both developers and operations teams work together to achieve common goals
