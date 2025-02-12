@@ -5,3 +5,6 @@ reduces errors, and ensures faster delivery of high-quality software. It also en
 reliability, and security, enabling teams to respond swiftly to market demands and customer feedback.
 Embracing DevOps practices ultimately leads to improved productivity, innovation, and a competitive
 edge in the software industry.
+
+
+third commit
