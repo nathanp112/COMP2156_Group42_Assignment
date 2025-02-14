@@ -1,0 +1,7 @@
+I am adding material into this text file to begin comitting for this devops class!
+
+Commits Done
+
+1
+2
+3

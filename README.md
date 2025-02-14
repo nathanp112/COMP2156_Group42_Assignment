@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# COMP2156_Group42_Assignment
+=======
 # COMP2156_Group42_Assignment
 
 ## Group Members
@@ -27,3 +30,4 @@
 
  Each member has their own branch named `STUDENTID-Name`.
  All changes are merged into the `main` branch via Pull Requests. 
+>>>>>>> aa1c09b392371587d09c00b09009411f3e0901fc
